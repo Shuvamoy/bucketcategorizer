@@ -1,4 +1,4 @@
-Feed it a list of buckets, it will tell you which ones are public and which are private and sort them in separate files.
+Once you obtain an Access Key and Secret Key, run the below tool, it will scan for all the available s3 buckets and tell you which ones are public and which are private and sort them in separate files.
 
 Where should you use this ?
 
